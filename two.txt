@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 hey ramam how are you
 
+=======
+hey raman
+hlo lakshman
+>>>>>>> a871c047b6b620864e62cd6e4f89a2cbe66990b2
